@@ -11,7 +11,7 @@ namespace Type_Conversions
         static void Main(string[] args)
         {
 
-            Console.WriteLine("-----Implicit Conversion-----");
+            Console.WriteLine("-----Implicit-----");
 
             byte a = 7;
             sbyte b = 13;
